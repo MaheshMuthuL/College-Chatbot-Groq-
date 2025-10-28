@@ -1,3 +1,44 @@
+# 🎓 College Chatbot — Powered by Groq & ChromaDB
+
+> **AI-driven College Information Assistant**  
+> An intelligent chatbot that learns from your college website and answers any inquiry using advanced LLMs from Groq, LangChain, and ChromaDB for context-based retrieval.
+
+---
+
+## 🌟 Overview
+
+The **College Chatbot** automatically gathers your institution’s information from the website, processes and stores it using **semantic embeddings**, and provides a **natural-language chat interface** for quick, accurate answers.
+
+### 💡 Key Features
+- 🔍 **Smart Data Extraction** — Scrapes and cleans text from college web pages.  
+- 🧠 **Semantic Search** — Embeds data into **ChromaDB** for fast, meaning-based retrieval.  
+- 💬 **Conversational Interface** — Chat in plain English via a sleek **Streamlit UI**.  
+- ⚙️ **Groq-Powered Reasoning** — Leverages **Llama 3.3 (70B)** or any Groq-hosted LLM.
+
+---
+
+## 🧩 Project Structure
+
+| File             | Description                                                  |
+|------------------|--------------------------------------------------------------|
+| **scraper.py**    | Crawls and extracts text from college website pages.        |
+| **ingest.py**     | Converts scraped data into vector embeddings & stores it.   |
+| **model.py**      | Defines Groq-powered LLM interaction and QA logic.         |
+| **app.py**        | Streamlit interface for user queries and real-time answers. |
+| **requirements.txt** | Python dependencies for all modules.                   |
+| **.env.example**  | Template for environment variables (API keys, model name). |
+| **.env**          | Your actual secret keys (⚠️ Don’t share this!).             |
+
+---
+
+## ⚙️ Setup Guide
+
+### 1️⃣ Create and Activate Environment
+```bash
+conda create -n college-chatbot python=3.12 -y
+conda activate college-chatbot
+>>>>>>> 544fb2168d26476fdf68731c3302261365d7ac0a
+=======
 # 🎓 College Chatbot Powered by Groq & ChromaDB
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
@@ -131,3 +172,44 @@ LLM_MODEL=llama-3.3-70b-versatile
 ---
 
 *Happy chatting! 🤖✨*
+=======
+# 🎓 College Chatbot — Powered by Groq & ChromaDB
+
+> **AI-driven College Information Assistant**  
+> An intelligent chatbot that learns from your college website and answers any inquiry using advanced LLMs from Groq, LangChain, and ChromaDB for context-based retrieval.
+
+---
+
+## 🌟 Overview
+
+The **College Chatbot** automatically gathers your institution’s information from the website, processes and stores it using **semantic embeddings**, and provides a **natural-language chat interface** for quick, accurate answers.
+
+### 💡 Key Features
+- 🔍 **Smart Data Extraction** — Scrapes and cleans text from college web pages.  
+- 🧠 **Semantic Search** — Embeds data into **ChromaDB** for fast, meaning-based retrieval.  
+- 💬 **Conversational Interface** — Chat in plain English via a sleek **Streamlit UI**.  
+- ⚙️ **Groq-Powered Reasoning** — Leverages **Llama 3.3 (70B)** or any Groq-hosted LLM.
+
+---
+
+## 🧩 Project Structure
+
+| File             | Description                                                  |
+|------------------|--------------------------------------------------------------|
+| **scraper.py**    | Crawls and extracts text from college website pages.        |
+| **ingest.py**     | Converts scraped data into vector embeddings & stores it.   |
+| **model.py**      | Defines Groq-powered LLM interaction and QA logic.         |
+| **app.py**        | Streamlit interface for user queries and real-time answers. |
+| **requirements.txt** | Python dependencies for all modules.                   |
+| **.env.example**  | Template for environment variables (API keys, model name). |
+| **.env**          | Your actual secret keys (⚠️ Don’t share this!).             |
+
+---
+
+## ⚙️ Setup Guide
+
+### 1️⃣ Create and Activate Environment
+```bash
+conda create -n college-chatbot python=3.12 -y
+conda activate college-chatbot
+>>>>>>> 544fb2168d26476fdf68731c3302261365d7ac0a
