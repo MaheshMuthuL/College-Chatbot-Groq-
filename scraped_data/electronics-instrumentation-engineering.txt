@@ -1,0 +1,112 @@
+URL: https://saveetha.ac.in/electronics-instrumentation-engineering/
+================================================================================
+
+Electronics & Instrumentation Engineering - Saveetha Engineering College
+Electronics & Instrumentation Engineering
+Home
+Electronics & Instrumentation Engineering
+About the
+Department
+The Department of Electronics and Instrumentation Engineering was established in 2011 with an initial intake of 60 students. Currently, the department offers an undergraduate program in Electronics and Instrumentation Engineering with an intake of 30 students.
+The department is supported by a team of dedicated, competent, and experienced faculty members committed to the college's goals. All faculty members hold master’s degrees, with many having completed their Ph.Ds. The department is well-equipped with advanced laboratories, including Transducers Lab, Process Control Lab, Virtual Instrumentation Lab, and Industrial Instrumentation Lab.
+Faculty
+Advisory Board
+Research
+Facilities
+Events
+Curriculum & Syllabus
+Key
+Features
+The Electronics and Instrumentation Engineering (EIE) department at Saveetha Engineering College is known for offering cutting-edge education and practical training in a highly interdisciplinary field. Here are the key features of the department:
+⦁ Emphasis on integrating software tools like MATLAB, LabVIEW, and SCADA for real-time simulation and process control.
+⦁ Well-equipped labs, including:
+⦁ Process Control Lab
+⦁ Virtual Instrumentation Lab
+⦁ Industrial Automation Lab with PLC, SCADA, and DCS setups
+⦁ Industrial Instrumentation Lab
+⦁ A team of highly qualified faculty members with expertise in areas like signal processing, embedded systems, and automation.
+⦁ Active participation in research and development, ensuring students learn from current advancements in the field.
+⦁ Focus on emerging fields such as Industry 4.0, smart instrumentation, and renewable energy.
+⦁ Workshops and guest lectures by industry professionals to bridge the gap between academics and industrial needs.
+⦁ Strong placement track record with leading recruiters in automation, electronics, manufacturing, and IT industries.
+⦁ Guidance for higher studies and certifications like NI LabVIEW and ISA.
+⦁ Integration of electronics, computer science, and mechanical engineering for comprehensive exposure.
+⦁ Focus on areas like IoT, artificial intelligence, and data analytics in instrumentation.
+Placement
+Data
+Centre of
+Excellence
+Eminent
+Alumni
+News and
+Events
+chem event
+EIE EVENT
+Step Into Success with Ramco Drive
+🚀 Saveetha Engineering College (Autonomous) proudly welcomes “Ramco – Campus Hiring Drive” for the EIE & Chemical 2025 Batch.🌟 Ramco
+13/05/2025
+Attend
+EIE EVENT
+SEC Events
+🎯 Kudos to Mr. Manikandan A (EIE, 2025 Batch) on securing a placement at ADDVERB! 🚀 Wishing you a career filled with success and growth! 🌟
+22/04/2025
+Attend
+EIE EVENT
+SEC Events
+🎉 Congrats, EIE 2025 Batch Learner on “Saint-Gobain” Placement!
+🎯 Kudos to Ms. S. Seethaladevi from EIE 2025 Batch on securing her placement at “Saint-Gobain”! 🚀 SEC is wishing
+15/04/2025
+Attend
+View all
+VISION
+To empower a new generation of Electronics and Instrumentation Engineers through the state-of-the art facilities and to inculcate their technical, social and ethical skills.
+MISSION
+M1:
+To provide high quality Technical Education and Training at Under Graduate level to set new standards for the industries through effective teaching learning process.
+M2:
+To enable the Graduates to work as professionals in industries and other organizations related to Electronics and Instrumentation Engineering.
+M3:
+To create passion for learning to become as Entrepreneurs with high degree of integrity and social concern.
+PROGRAMME EDUCATIONAL OBJECTIVES (PEOs)
+PEO1.
+To impart strong foundation in the field of basic scientific concepts and mathematical approaches and educate to apply them in the field of Instrumentation Engineering.
+PEO2.
+To gather knowledge in the field of Engineering which is necessary to identify, formulate and solve problems in the interdisciplinary domains of Engineering and Technology.
+PEO3.
+To train the students to design a system, component, or process to meet the desired needs considering economic, environmental and social relevance.
+PEO4.
+To create interest among the students to function on multi-disciplinary teams.
+PEO5.
+To produce Instrumentation Engineers who will compete with the modern world with an understanding of professional and ethical responsibility.
+PROGRAMME OUTCOMES (POs)
+Engineering Graduates will be able to:
+Engineering Knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem Analysis:
+Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/Development of Solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct Investigations of Complex Problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication:
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAMME SPECIFIC OUTCOMES (PSOs)
+Engineering Graduates will be able to
+PSO 1:
+Acquire technical skills to solve problems and challenges in the field of instrumentation with robust control tools.
+PSO 2:
+Apply the concepts of measurement and control techniques to setup and monitor instruments in process industries.

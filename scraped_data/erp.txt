@@ -1,0 +1,51 @@
+URL: https://saveetha.ac.in/erp/
+================================================================================
+
+ERP (Enterprise Resource Planning) - Saveetha Engineering College
+ERP (Enterprise Resource Planning)
+Home
+ERP (Enterprise Resource Planning)
+About
+ERP
+At Saveetha Engineering College, our ERP (Enterprise Resource Planning) Team is pivotal in transforming the campus into a smart, tech-enabled academic ecosystem. With a clear vision to enhance operational efficiency and deliver a seamless experience for students, faculty, and stakeholders, the ERP team integrates state-of-the-art software solutions across all institutional functions.
+Teams
+Modules
+We leverage a suite of powerful tools tailored to meet the diverse needs of academic and administrative operations:
+Module
+Purpose
+Software
+Student Information System (SIS)
+Admissions, Enrolment, Records, Fee collection
+CAMU
+Finance
+Budgeting
+TALLY
+HR
+Staff payroll, Attendance
+SARAL, ESSL
+Academics
+Timetable, Grading
+CAMU
+Learning Modules
+Online Learning Platforms
+MOODLE
+Library
+Inventory management
+KOHA
+Our ERP ecosystem ensures data-driven decision-making, transparency, and automation of routine tasks—enabling faculty to focus more on teaching and innovation, and students to benefit from a smooth academic journey.
+The ERP team remains committed to driving digital transformation that aligns with our institution’s mission of academic excellence and continuous improvement.
+CAMU
+Academics
+Saveetha Engineering College utilizes
+CAMU
+, a comprehensive and integrated Student Information System (SIS) and Learning Management System (LMS), as its core academic and administrative platform. CAMU empowers the institution to automate and streamline all processes—from admissions to graduation—enabling efficient execution of academic activities and real-time data management.
+By aligning with globally recognized educational frameworks such as the
+Washington Accord
+and leading school boards like the
+International Baccalaureate (IB)
+and
+Cambridge
+, CAMU supports the college in achieving accreditation goals through a structured and predictable approach.
+With its robust
+Web and Mobile applications
+, CAMU enhances user experience for students, faculty, and administrators alike—facilitating smooth management of learning, assessments, communication, and records. It serves as the digital backbone for Saveetha Engineering College’s forward-thinking and tech-enabled educational environment.

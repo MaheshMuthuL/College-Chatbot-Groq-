@@ -1,0 +1,1384 @@
+URL: https://saveetha.ac.in/aicte-idea-lab/
+================================================================================
+
+AICTE-IDEA LAB - Saveetha Engineering College
+AICTE-IDEA LAB
+Home
+AICTE-IDEA LAB
+Date of Publication: 24
+th
+July 2024
+Tender Notice
+Online/ in sealed envelope, tenders/quotations are invited from reputed Companies / supply Sealed/online quotations are invited from reputed companies/suppliers for the
+procurement of equipment, tools, and machines
+for the IDEA Lab at
+Saveetha Engineering College, Thandalam, Sriperumbudur (TK), Kanchipuram (DT) – 602105
+.
+List of Components and the Specification
+S.No
+Component
+Specifications
+Part 1
+1
+Laser Cutter
+Table size:
+1200 X 1500mm,
+Laser Power:
+1.5.KW – Air-conditioned electrical cabinet with 80 Ton CNC Bending machine
+2
+Laser Cutter (Acrylic)
+Table size:
+900 x 600 mm ,
+Laser Power:
+100 W
+3
+Vinyl Cutter
+Type:
+Tabletop Vinyl Cutter,
+Cutting Width:
+12–24 inches (300–600 mm),
+Cutting Force:
+350–500 g (adjustable),
+Cutting Speed:
+10–40 cm/s,
+Resolution / Precision:
+0.1 mm
+4
+3D Printer
+250mm x 250mm x 250mm bed size –
+SLS
+or
+FDM
+multi colour
+5
+CNC Router
+Table size:
+1300×2500,
+Speed:
+1400 RPM Servo spindle
+6
+Desktop Lathe Cum Milling
+bed centre:
+500 mm
+, Motor:
+1HP,
+7
+Drilling Machine – 1 HP Power
+1 HP,
+1440 RPM, 20 mm drill capacity, 250 x 250 mm table size
+8
+Handheld High Speed Drilling M/c-1500 RPM with
+Accessories – 2 Nos
+230V AC,
+Capacity
+– 10 mm (Metal), 20mm (Wood), 10–20 Nm Torque
+9
+Benchtop Grinder Machine
+Double-wheel
+, 1HP, 3450 RPM, 8 inch Dia, 25 mm Width, (5/8 inch) bore, Aluminum Oxide, A36 wheel sixe
+10
+Solder stations – 5 Nos
+230V AC, 50W, 150°C – 450°C, 10 seconds warmup – 878D Station
+11
+Desoldering M/c
+230V AC, 50W, 150°C – 450°C, 10 seconds warmup , 600 mmHg Vacum, Diaphragm, 160°C – 480°C (Nozle) 878D Station
+12
+Advanced, motorized Sewing Machine
+230V, servo, 550W, 5000 stitches/min, 5 mm sticth length, Automatic needle position, Overload protection
+13
+Wood Lathe
+Swing Over Bed:
+200–300 mm (8–12 inches),
+Distance Between Centers:
+600 mm,
+Spindle Speed:
+Variable 500–3000 RPM , Motor: 01 HP
+14
+Power tools
+Power:
+600W motor,
+Chuck Size:
+13mm keyless chuck,
+Speed:
+Up to 2900 RPM,
+Modes:
+Drill and hammer functions, Included Toolkit: 120 pieces, including drill bits, screw bits, pliers, hammer, utility knife, measuring tape, Allen keys, and more,
+15
+Portable welding M/c
+Type:
+Inverter-based MMA (Manual Metal Arc) / Stick Welder,
+Input
+: 230V AC,
+Output:
+20–160 A (adjustable),
+Duty Cycle:
+60% @ 160 A,
+Electrode Diameter:
+1.6–4 mm,
+Efficiency:
+≥85% (energy-saving inverter technology),
+No-load Voltage:
+60–70 V,
+Safety Accessories:
+Welding helmet with auto-darkening filter, Heat-resistant gloves, Apron or welding jacket,Safety goggles.
+Welding Booth:
+Dimensions: 1200–1500 mm (W) × 1200–1500 mm (D) × 2000 mm (H) ( benchtop booth),
+Frame:
+Mild steel or aluminum frame for stability,
+Panels:
+Fire-retardant, opaque, polycarbonate / metal sheet walls,
+Ventilation:
+Built-in extraction fan for smoke and fume removal
+Door:
+Sliding or hinged with safety interlock,
+Lighting:
+LED internal lights for better visibility
+16
+Refrigerator
+Type:
+Single-door,
+Capacity:
+150 liters,
+Temperature Range:
+Refrigerator: 2–8°C, Freezer −18°C,
+17
+Normal and Microwave Oven
+Type:
+Benchtop,
+Capacity:
+50 liters,
+Temperature Range:
+50–250°C,
+Microwave Oven:
+Benchtop,
+Capacity:
+20 liters
+18
+Magnifying Glass with Stand – 2 Nos
+Primary lens:
+3X – 5X,
+Auxiliary lens:
+8X – 10X,
+Optical-grade glass,
+90–130 mm lens dia,
+19
+Digital Microscope
+Type:
+Digital USB,
+Magnification Range:
+50X – 1000X (adjustable),
+Sensor:
+High-resolution CMOS sensor,
+Camera Resolution:
+Minimum 12MP, 7 Inch Display
+20
+Mixed Signal Oscilloscope
+Bandwidths:
+200 MHz,
+Channels:
+2-ch or 4-ch models,
+Sample Rate:
+Up to 1 GSa/s (per channel), 14 Mpts memory depth,
+Waveform Capture Rate:
+Up to 100,000 wfm/s
+Display:
+7” TFT-LCD, 256-level intensity grading,
+Connectivity:
+LAN, USB, Web Control
+21
+Digital Storage Oscilloscope
+Digital Storage Oscilloscop
+e 100MHZ 2 Channel 2Gsa/s, 12-bit high resolution with 7” inch touch screen display:, 100 MHz;2 channels; 2 GSa/s; 50 M memory depth; 500,000 wfm/s waveform capture rate; 7” TFT-LCD with capacitive touch screen (1024*600); SPO technology,2 Mpts FFT Serial bus triggering and decode (Standard), supports IIC, SPI, UART, RS232, CAN, and LIN； Support MSO，USB AWG Bode Plot: USB WIFI
+22
+Signal Generator
+Channels
+: 2 independent outputs,
+Maximum Output Frequency:
+60 MHz (sine and square wave),
+Sampling Rate:
+150 MSa/s,
+Vertical Resolution:
+14-bit,
+Waveform Length:
+16 kpts per channel
+23
+Variable Power Supply
+Triple-output:
+CH1/CH2: 0–32 V, 0–3.2 A; CH3: 2.5/3.3/5 V
+Resolution
+10 mV / 10 mA (note current is 10 mA, not 1 mA).
+24
+Benchtop Multimeter
+Resolution:
+6½ digits (1,200,000 counts),
+DCV Accuracy:
+0.0035% (1-year),
+Resistance:
+Up to 100 MΩ, 4-wire supported,
+Current:
+Up to 10 A,
+Reading Speed:
+123 rdgs/sec (fast), 1000/sec with “digitless” mode
+Connectivity:
+USB, LAN, GPIB,
+Data Storage:
+≥ 10,000 readings
+25
+Heavy Duty Laser Printer
+Type:
+Monochrome Laser, Speed: 40 ppm, Resolution: 1200 × 1200 dpi.
+26
+Computer Workstation in networking – 5 Nos
+RTX4050 – 32GB Ram – I5, 13th Gen 1TB SSD – 3 nos, RTX4070-32GB Ram, i7 or i9, 13th Gen, 2TB SSD – 2 nos. Monitors: Dual 27″ Full HD IPS.
+27
+Quadcopter assembly kit
+Frame:
+450 mm carbon fiber,
+Motors:
+1000 KV BLDC × 4,
+Propellers:
+10 inch carbon fiber, ESC: 30A × 4,
+Battery:
+3S/4S Li-Po, 2200–5000 mAh, 30C.
+Flight Controller:
+Pixhawk/APM 2.8 with GPS, Radio: 6-channel 2.4 GHz, 1 km range, Flight Time: 15–20 min.
+28
+Smart Board
+75″ 4K UHD display, 450 nits brightness, anti-glare glass,20+ touch points, IR touch, dual pen support, Android 11, 4 GB RAM, 32 GB storage, Optional i5/i7 OPS PC module, 2 × 20W speakers, Wi-Fi + HDMI + USB-C, Whiteboard + screen sharing software, 3-year onsite warranty.
+29
+Relay modules (Ethernet Controlled relay, Bluetooth controlled relay, Wi-fi controlled relay 8 channel)
+Relay:
+8 × SPDT, 250V AC / 10A, opto-isolated,
+Control:
+Ethernet (TCP/IP), Wi-Fi (ESP8266/ESP32, MQTT/HTTP), Bluetooth (BLE), Logic Compatibility: 3.3V & 5V,
+Indicators:
+Individual channel LEDs + power LED,
+Safety:
+Flyback diodes, opto-isolation, over-current protection, Extras: Web UI / Mobile app support, DIN rail mount, state memory.
+30
+GPIO Modules (Ethernet Controlled relay, Bluetooth controlled relay, Wi-fi controlled relay 8 channel)
+GPIO:
+8 configurable pins, 3.3V/5V compatible, opto-isolated,
+Control:
+Ethernet (Modbus TCP + HTTP), Wi-Fi (ESP32, MQTT + HTTP), Bluetooth (BLE), Protection: ESD & short-circuit protected,
+Indicators:
+Per-channel LED + power LED,
+Power:
+5V/12V DC, reverse polarity protection,
+Software:
+Web UI + API + MQTT broker + Node-RED support, Mounting: DIN rail or screw mount.
+31
+Electric Bicycle Motor & Accessories
+Motor:
+250W–350W BLDC Hub, 36V, top speed 25 km/h,
+Battery:
+36V, 10–12 Ah Li-ion, 40–50 km range,
+Controller:
+36V, 15A sine-wave with protections,
+Display:
+LCD with 3 assist levels,
+Accessories:
+PAS sensor, e-brake levers, LED lights, throttle, Safety: IP65 waterproofing, motor cut-off on braking.
+32
+Granite Surface plate (630 X 630 X 80 mm grade “O”)
+Material:
+High-quality black granite, free from flaws, cracks, and inclusions, Size: 630 mm (L) × 630 mm (W) × 80 mm (T),
+Grade:
+Grade “0” (as per IS 7327 / DIN 876 standard), Flatness Accuracy: Grade “0”: ±3.5 µm (for size up to 630 mm),
+Finish:
+Precision-lapped surface, smooth and wear-resistant, Hardness: ≥ 6 on Mohs scale, Density: ~2.9 g/cm³,
+Compressive Strength:
+~245 MPa, Tensile Strength: ~7 MPa, Coefficient of
+Thermal Expansion:
+~5 × 10⁻⁶ /°C (very low thermal sensitivity),
+Water Absorption:
+Nil (ensures long-term dimensional stability),
+Edge Finish:
+Chamfered edges to prevent chipping,
+Support:
+Supplied with a sturdy cast iron stand with leveling screws (optional with trolley type stand),
+Usage
+: Ideal for inspection, layout, and precision measurement work.
+Part 2
+1
+Measuring Equipment [Vernier Caliper (0-
+200/0.01).Digital Vernier height gauge (0-1000mm),
+analog Micrometer 0-50, 50-100/0.001 inside and
+outside)]
+Vernier Caliper (Digital)
+– Range – 0–200 mm, Res – 0.01 mm , Acc (±0.02 mm (±0.03 mm),
+Height Gauge (Digital)
+– Rang (0–1000 mm), Res – 0.01 mm , Acc (±0.07 mm),
+Analog Micrometer
+– Range (0–50 mm / 50–100 mm), Res – 0.01 mm
+2
+Fire Extinguisher
+ABC
+Dry Powder (6 kg),
+3
+First Aid Box
+Container
+-Rigid plastic toolbox,
+Core Supplies
+– Sterile gauze pads, adhesive plasters, bandages, etc, Extras – Burn dressings, sterile saline, emergency instructions
+4
+Electronic Components Repository (LCR Meter, Variac etc)
+LCR Meter
+– Frequency Range – ≥ 500 kHz (bench), up to 1 MHz, Accuracy – ±0.05%, Signal Capability – AC voltage up to 2 Vrms, selectable AC current, ± DC bias Measured Parameters – L, C, R, ESR, Q, D, Z, Y, θ, etc, Interfaces – USB, LAN, GPIB, RS-232, Extras – Bin sorting, sweep, memory, auto-level control.
+Variac –
+Voltage & Current Rating: e.g., 0–250 V adjustable output, rated up to 5 A, Regulation: Mechanical dial or precision knob for smooth voltage control, Waveform Integrity: Minimal distortion—clean sine output, Safety & Build: Metal enclosure, fused protection, thermal cut-out, Mounting: Bench-top or built-in mount with clear voltage scale and indicator lamp, Optional: Tachometer, digital display for precise voltage readout, overload switch.
+5
+Miscellaneous Consumables (
+https://drive.google.com/file/d/1jEnGA3ITAuKL_irB1MBnmNuZoXupHNg3/view?usp=drive_link)
+Part 3
+1
+Hacksaw – 5 Nos
+Frame (Length)
+– 150–300 mm steel/aluminum, ergonomic grip,
+Blade Length –
+300 mm (12 in) standard,
+Blade Material –
+HCS or Bi-Metal (HSS teeth + flexible spine),
+Blade Width & Thickness –
+~12–13 mm width; 0.6–0.8 mm thickness,
+Teeth per Inch –
+24 TPI balanced; 18–32 TPI for finer or faster cut
+2
+Micro Chisel – 3 Set
+Blade Material:
+High-speed steel,
+Blade Widths
+: 1 mm, 2 mm, 3 mm, 4 mm, 5 mm (set of assorted sizes preferred),
+Blade Thickness:
+1–2 mm,
+Handle:
+Ergonomic anti-slip handle,
+Length:
+120 – 150 mm,
+Edge Type:
+Bevel edge (sharpened to 25°–30°),
+3
+Pliers – 3 Set
+Material:
+High carbon steel,
+Handle:
+Bi-material,
+Size Range:
+6″ (150 mm), 7″ (175 mm), 8″ (200 mm),
+4
+Manual PCB Drilling Machine – 3 Nos
+Type:
+Bench-top / Hand-operated manual PCB drilling machine,
+Spindle Speed:
+12,000 – 18,000 RPM (suitable for FR4, CEM, Bakelite PCBs),
+Drill Bit Size Compatibility:
+0.3 mm to 1.2 mm (standard PCB carbide drill bits),
+Drill Chuck Capacity:
+0.3 mm – 3.2 mm,
+Drive Mechanism:
+Hand lever-operated feed (manual up/down movement),
+Motor:
+High-speed universal motor, ~150–250 W, Cast iron / Mild steel base with anti-vibration pads,
+Work Table Size:
+~100 mm × 100 mm (or larger) with clamping provision,
+Depth Adjustment:
+Adjustable depth stopper for precision drilling,
+Power Supply:
+Single phase 230 V AC, 50 Hz,
+Accessories Required:
+Set of carbide PCB drill bits (0.3 mm – 1.2 mm), PCB holding vice / mini clamp
+5
+PCB power Drilling Machine – 3 Nos
+Type:
+Bench-top PCB Power Drilling Machine,
+Spindle Speed:
+Variable 8,000 – 20,000 RPM,
+Drill Bit Compatibility:
+0.3 mm – 1.5 mm,
+Chuck Capacity:
+0.3 mm – 3.2 mm,
+Motor Power:
+150 – 250 W,
+Speed Control:
+Electronic variable speed regulator,
+Work Table Size:
+Minimum 100 × 100 mm,
+Depth Adjustment:
+Precision adjustable drilling depth stopper (±0.05 mm),
+Base:
+Rigid cast iron,
+Power Supply:
+230 V AC, 50 Hz (single phase),
+Safety Features:
+Transparent spindle guard, Emergency stop switch, Overload protection for motor,
+Accessories:
+Set of carbide drill bits (0.3 mm – 1.5 mm), PCB holding vice / mini clamps,Dust collection nozzle (optional)
+6
+Cordless Drilling Machine – 2 Nos
+Type:
+Cordless Drill Driver / Impact Drill (Lithium-ion),
+Voltage:
+18V or higher,
+Battery:
+2 × 2.0 Ah or 4.0 Ah Lithium-ion batteries (rechargeable), Fast charger (within 60 min charging time preferred),
+Chuck Size:
+10 mm or 13 mm keyless chuck,
+Max Torque:
+50–60 Nm (adjustable torque settings),
+Speed:
+2-speed gearbox, 0–450 RPM (low) / 0–1,700 RPM (high),
+Drilling Capacity:
+Wood: up to 30 mm, Steel: up to 13 mm, Masonry (if hammer function available): up to 13 mm,
+Clutch Positions:
+20+ for torque control,
+Reverse/Forward:
+Yes,
+LED Light:
+Built-in for dark areas,
+Accessories:
+Carry case, set of drill bits & driver bits,
+Weight:
+Around 1.5–2.0 kg
+7
+Jigsaw Machines – 2 Nos
+Power Input:
+600 W
+, Stroke Length:
+18–23 mm,
+Stroke Rate:
+0–3,000 SPM (variable speed control),
+Bevel Capacity:
+0–45° (adjustable both sides),
+Cutting Capacity:
+Wood: 65–85 mm, Steel: 6–10 mm, Aluminum: 12–20 mm,
+Accessories
+: 3–5 jigsaw blades (wood/metal), carrying case,
+Ergonomics:
+Soft grip handle
+8
+Power Circular Saw
+Power Input:
+1600 W,
+No Load Speed:
+5500 RPM,
+Blade Diameter:
+190 mm (7-1/2″),
+Cutting Capacity:
+65 mm @ 90°, 45 mm @ 45°,
+Bevel Capacity:
+0–45° adjustable,
+Weight:
+~4.5 kg,
+Ergonomics:
+Soft grip handle
+9
+Files Set – 2 Nos
+Pieces Included:
+6 files, Flat file (bastard cut), Half-round file, Round file, Triangle file, Square file, Flat file (smooth cut),
+File Length:
+8″ (200 mm),
+Material:
+High carbon steel, hardened & tempered,
+Cut Type:
+Single & double cut combination (for rough and smooth finishing),
+Handle:
+Ergonomic bi-material (rubber + plastic) for comfort
+10
+File Handles – 1 Set
+Material:
+High-impact polypropylene body with soft bi-material grip (rubber + plastic) for comfort,
+Type:
+Interchangeable – fits multiple file tang sizes,
+Compatibility:
+Designed to fit most standard file sizes (4″ to 12″),
+Design:
+Ergonomic shape for better hand control and reduced fatigue,
+Safety:
+Prevents slipping of files, reduces risk of injury while filing.
+11
+Needle Files – 2 Set
+Set Size:
+Typically 10-piece sets,
+File Length:
+140 mm – 160 mm (approx. 5.5″ – 6.5″), S
+hapes Included:
+Flat, Half-round, Round, Square, Triangular, Knife-edge (varies by set),
+Material:
+Hardened high-carbon steel for durability,
+Cut Type:
+Double-cut for faster material removal and smoother finish,
+Handle:
+Some sets include soft-grip handles, others are plain tang type (can be used with separate file handle),
+Application:
+Precision filing in metal, wood, and plastic – especially useful for PCB edge trimming, and 3D printed part finishing.
+12
+Pipe Vice – 2 Nos
+Type:
+Fixed base,
+Jaw Capacity:
+0.5 inch – 3 inch,
+Body Material:
+Cast iron body
+Jaws:
+Hardened steel jaws (replaceable) with strong grip on round/square pipes,
+Screw:
+Acme-threaded spindle for smooth tightening,
+Mounting:
+Bench-mounted,
+Application:
+Holding pipes for threading, cutting, filing, and fitting works
+13
+Mini Hacksaw – 5 Nos
+Blade Size:
+150 mm (6 inch),
+Blade Type:
+High-tensile steel blade, 24 TPI (teeth per inch) – suitable for cutting metal, plastic, and wood,
+Frame Material:
+Hardened steel frame with ergonomic plastic grip,
+Cutting Depth:
+~50 mm,
+Handle:
+Pistol-grip handle
+14
+Ball Peen Hammer – 5 Nos
+Head Material:
+high-carbon steel,
+Head Weight:
+500 g,
+Face Type:
+One flat striking face + one round peen face,
+Handle:
+Fiberglass with rubber grip,
+Length:
+~300 mm
+15
+Steel Shaft Claw Hammer – 5 Nos
+Head Material:
+Forged high-carbon steel,
+Head Weight:
+450 g,
+Handle:
+Steel shaft with comfortable rubber grip,
+Claw Type:
+Curved claw – better leverage for nail removal,
+Length:
+~300 mm
+16
+Nylon Mallet – 5 Nos
+Head Material:
+Two replaceable nylon faces,
+Head Weight:
+~225 g,
+Handle:
+Hickory wooden handle for better grip
+17
+Rubber Mallet – 5 Nos
+Head Material:
+White soft rubber (non-marking),
+Head Diameter:
+~55 mm,
+Head Weight
+: ~450 g,
+Handle:
+Wooden handle,
+Features:
+Shock-absorbent handle
+18
+Allen Key T – Handle 9cs – 3 set
+Set Size:
+9 pieces,
+Sizes Included:
+Typically 1.5 mm, 2 mm, 2.5 mm, 3 mm, 4 mm, 5 mm, 6 mm, 8 mm, 10 mm,
+Material:
+Chrome vanadium steel,
+Finish:
+Black oxide or satin chrome finish – rust & corrosion-resistant,
+Handle Type:
+T-shaped ergonomic,
+Tip:
+Ball-end on long side for angled insertion and precision work,
+Storage:
+compact plastic organizer
+19
+Dremel multitool kit – 2 set
+Type:
+Rotary Multi-Tool, corded,
+Power:
+130 W,
+Speed Range:
+5,000 – 32,000 RPM (variable speed dial),
+Collet Sizes:
+1/32”, 1/16”, 3/32”, 1/8”,
+Accessories:
+all accessories included (cutting, sanding, polishing, engraving),
+Attachment:
+Flex shaft attachment
+20
+Double ended spaner – 2set
+Material:
+Chrome vanadium steel (Cr-V),
+Finish:
+Polished chrome finish,
+Sizes:
+8 × 10 mm (example; sets usually include 6–12 sizes),
+Ends:
+Double open-ended, angled 15° for easier access,
+Length:
+Varies with size (small – 100 mm, large – 250 mm)
+21
+12 Piece Open ended spanner – 2set
+Material:
+Chrome Vanadium Steel (Cr-V),
+Finish:
+Polished chrome finis,
+Sizes Included
+: 6, to 22 mm,
+Design:
+Double open-ended, 15° offset,
+Length:
+Varies with size (100 mm to 250 mm)
+22
+Belt and disc sanding machine
+Power:
+750 W,
+Belt Speed
+: 270 m/min,
+Disc Speed:
+2800 RPM,
+Belt Size:
+75 × 533 mm,
+Disc Diameter:
+180 mm, T
+able Size:
+160 × 160 mm (tiltable up to 45°),
+Dust Extraction:
+Integrated dust bag / port for vacuum connection,
+Safety:
+Emergency stop, thermal protection, stable base for benchtop mounting
+23
+Scroll Saw Machine
+Type:
+Benchtop scroll saw,
+Power
+: 120 W,
+Blade Type:
+plain-end blades,
+Stroke Rate:
+400 – 1,600 SPM (variable speed),
+Throat Depth:
+16 inch (approx. 400 mm) – maximum cutting width,
+Table Size:
+300 × 300 mm, tiltable up to 45° for angled cuts,
+Features:
+Adjustable blade tension, Quick-release blade change.
+24
+Tool Wall covering Perforator – 3 Nos
+Perforation Mechanism:
+carbon steel wheels,
+Adjustable Depth
+,
+Handle Type:
+telescoping handle,
+25
+Dremel Moto Saw
+Type:
+Mounted,
+Power :
+70 W,
+Speed:
+1,500 – 2,250 strokes/min,
+Blades Included:
+Wood, plastic, fine wood, metal cutting
+26
+Bench Grinding Machine
+Power:
+350 W,
+Wheel Diameter:
+7 inches,
+Speed:
+3,500 RPM,
+Wheel Options:
+One grinding wheel + one wire brush / buffing accessory,
+Base & Build:
+Cast iron base with rubber padding,
+Safety Features:
+Spark shields, transparent eye guards, tool rests,
+Mounting:
+Bench-top with rubber feet
+27
+Power Return Measuring Taps – 5 Nos
+Blade Length:
+7.5 m (25 ft),
+Blade Width & Material:
+~25 mm wide,
+Self-Retracting Mechanism:
+Spring-loaded (power return),
+Case
+: Tough ABS,
+Graduations:
+Dual units (metric & imperial), E
+nd Hook:
+Multi-riveted
+28
+Tri Square – 5 Nos
+Blade Material
+: stainless steel,
+Handle:
+Hardwood, Blade Lengths Available: 6 inch (150 mm), 12 inch (300 mm),
+Accuracy
+: ±0.05 mm per 100 mm
+29
+Stainless Steel Rule – 5 Nos
+Material:
+stainless steel,
+Length:
+300 mm,
+Thickness:
+~1 mm (rigid, non-flexible)
+30
+Digital Vernier Caliper 200mm – 5 Nos
+Material:
+HSS,
+Measuring Range:
+0 – 200 mm,
+Resolution:
+0.01 mm / 0.0005″,
+Accuracy:
+±0.02 mm,
+Display:
+Large LCD digital display,
+Units:
+Metric (mm) / Imperial (inch) switchable
+31
+Spirit Level – 5 Nos
+Length options
+: 600 mm,
+Material:
+Heavy-duty aluminum frame,
+Vials:
+3 solid acrylic block vials (horizontal, vertical, 45°),
+Accuracy:
+±0.5 mm/m
+32
+Dremel Cordless Rotary Tool
+Power:
+12V Lithium-Ion Battery (rechargeable),
+Speed:
+Variable 5,000 – 35,000 RPM,
+Runtime:
+Approx. 30–40 min continuous use (per charge),
+Collet Size:
+0.8 – 3.2 mm (fits wide range of accessories),
+Accessories:
+65-piece kit (cutting wheels, sanding drums, polishing bits, etc.)
+33
+Power Router
+Power:
+1,600 W,
+Speed:
+10,000 – 25,000 RPM (variable speed),
+Plunge Depth:
+76 mm,
+Collet Size:
+6 mm, 8 mm, 12 mm.
+34
+Sewing Machine
+230V, servo, 550W, 5000 stitches/min, 5 mm sticth length, Automatic needle position, Overload protection
+35
+Impact Drill – 3 Nos
+Power:
+600 W,
+Speed:
+0 – 3000 rpm,
+Impact Rate:
+0 – 48,000 bpm (beats per minute),
+Drilling Capacity:
+Wood: 25 mm, Steel: 10 mm, Concrete: 13 mm,
+36
+Ratchet Set – 2 Nos
+94 Piece Socket Se
+t (1/4″ + 1/2″),
+Sockets range:
+4 mm – 32 mm.
+37
+Router Bit Starter kit
+Set Size:
+12 bits,
+Shank Diameter:
+6 mm / ¼ inch,
+Material:
+Tungsten Carbide cutting edges,
+Bit Types:
+Straight, dovetail, Roman ogee, round over, flush trim, cove, V-groove, chamfer, rabbeting
+38
+Scroll Saw
+Power Input:
+~500 – 600 W, C
+utting Depth:
+Up to 50 mm (wood),
+Stroke Length:
+~20 mm,
+Speed:
+Variable (500 – 1,600 strokes/min),
+Table Size:
+Cast iron, tiltable 0° – 45° for bevel cuts,
+Blade Change
+: Tool-free blade change system
+39
+Hot Air Blower with Soldering Iron – 5 os
+Hot Air Rework Station:
+Temp Range: 100°C – 500°C, Adjustable airflow (gentle to strong for SMD), ESD-safe design,
+Soldering Iron
+: Power: 70 W, Temp Range: 200°C – 480°C, Fast heat recovery, digital control, Interchangeable tips
+40
+Tin Cutter with Spring – 10 Nos
+Cutting Capacity:
+Cold-rolled steel: up to 1.2 mm,
+Stainless steel:
+up to 0.7 mm,
+Blade Material:
+Forged chrome-molybdenum steel (Cr-Mo), D
+esign:
+Compound lever action for 2x cutting power,
+Safety Latch:
+One-handed automatic latch release for safety
+41
+Centrifugal Blower
+Type:
+Single Inlet Centrifugal Blower (Direct Drive),
+Airflow Capacity
+(CFM / m³/hr): 500 – 1500 m³/hr,
+Static Pressure:
+50 – 150 mm WC,
+Impeller Material:
+Mild Steel,
+Motor Power:
+0.5 HP,
+Speed:
+2800 RPM,
+Noise Level:
+≤ 70 dB,
+Power Supply:
+230V.
+42
+Screwdriver Sets – 2 Nos
+Type:
+Multi-bit set (Interchangeable),
+Bits:
+(60 pcs kit),
+43
+Cutting Mats – 5 Nos
+Material:
+5-layer PVC,
+Surface:
+Non-reflective, non-slip, grid-printed surface,
+Thickness:
+Minimum 3 mm,
+Size :
+A1,
+Markings:
+Pre-printed grids (metric + angle lines for accuracy).
+44
+Vacuum Cleaner – 2 Nos
+Type:
+Wet & Dry,
+Power:
+1200W,
+Suction Capacity:
+>17 kPa suction power,
+Tank Capacity:
+30L (steel or heavy-duty plastic),
+Filter System:
+HEPA or cartridge filter + washable cloth bag,
+Hose Diameter:
+32 mm,
+Mobility:
+360° swivel wheels + carry handle
+45
+Hot air gun- 5 No’s
+Power:
+1500W,
+Temperature Range:
+50°C – 600°C,
+Airflow:
+200 – 500 L/min,
+Temperature Control:
+Digital,
+Nozzle Attachments:
+Concentrator, deflector
+46
+Micro meter- 5 No’s
+Measuring Range:
+0-75 mm,
+Resolution:
+0.001 mm (digital), Accuracy: ±2 µm,
+Type:
+Digital LCD display,
+Frame:
+Forged steel.
+47
+Glue Gun- 5 Nos
+Power:
+40W to 100W,
+Heating Time:
+2–5 minutes,
+Temperature:
+Single Temperature: ~200 °C, Glue Stick Size: Ø11 mm sticks,
+Flow Rate:
+~12–20 g/min,
+Trigger Feed:
+Smooth trigger for controlled glue flow
+48
+Air Compressor
+Tank Capacity:
+100 Litres,
+Motor Power:
+3 HP, Max Pressure: 16 bar,
+Lubrication:
+Oil-free,
+Accessories:
+Hose, blower gun, quick couplers, and pressure regulator.
+49
+Allen Set Wrench- 5 No’s
+Material:
+High tensile steel,
+Sizes:
+1.5mm, to 10mm,
+Design:
+Long arm
+50
+Tongue and Groove Pliers (5 pcs)
+Jaw Opening:
+2 – 4 inches (Adjustable),
+Length:
+250 mm,
+Material:
+high-carbon steel,
+Adjustment:
+Push-button or slip-joint
+51
+Non-contact voltage test (5 pcs)
+Voltage Range:
+100V – 600V AC,
+Safety Rating:
+CAT II 600V,
+Indication:
+LED light and audible buzzer,
+Design:
+Pocket-sized
+52
+Wire stripper(5 pcs)
+Stripping Capacity:
+0.2 mm² – 6.0 mm²,
+Cutting Function:
+Yes,
+Adjustment:
+Self-adjusting mechanism
+53
+Fish Tape(2 pcs)
+Length Options:
+30 m (100 ft),
+Material:
+High-quality steel,
+Case:
+Impact-resistant ABS case,
+Design:
+Low-friction coating
+54
+Flashlights (2 pcs)
+Brightness:
+1000 lumens,
+Battery:
+Rechargeable Li-ion,
+Beam Distance
+: Up to 300 m,
+Build:
+Aluminum housing
+55
+DC Regulated Power supply(3 units)
+3 Outputs:
+30V/3A, 30V/3A, 5V/3A,
+Power:
+195W,
+Resolution:
+1 mV / 1 mA,
+Display:
+3.5″ color TFT,
+Modes:
+Indep / Series / Parallel / Tracking
+Protections:
+OVP, OCP, OPP,
+Interfaces:
+USB, LAN, RS232
+56
+Solder Wick (10 Pcs)
+Material:
+Oxygen-free copper braid, tinned with flux coating (rosin-based).
+Width Options:
+1.0 mm, to 3.0 mm,
+Length:
+3 m per roll.
+Flux Type:
+No-clean rosin flux,
+Temperature Resistance:
+up to 400 °C,
+Shelf Life:
+12–18 months in dry storage conditions,
+Packaging:
+Anti-static, moisture-protected spool.
+57
+Filament dehydrator
+Filament Sizes:
+1.75 mm, to 3.00 mm,
+Temperature Range:
+45°C to 65°C,
+Timer Settings:
+2 / 4 / 8 / 24 hours
+Power:
+100–230V AC
+58
+Reflow oven
+Heating Method:
+Infrared (IR) + Hot Air Convection,
+Working Area:
+300 × 320 mm,
+Temperature Range:
+100°C to 350°C (programmable),
+Pre-set Profiles:
+Multiple soldering profiles for lead, lead-free, and special solders,
+Control:
+Microprocessor control with LCD display, USB interface (optional for profile upload)
+59
+Glass cutter
+Type:
+Manual Glass Cutter (wheel type, hand-held), Tungsten Carbide / Diamond Tip,
+Thickness:
+2 to 12mm,
+Cutter Wheel Material:
+Tungsten Carbide Wheel and Diamond-Tipped ,
+Accessories:
+Cutting mat / workstation surface, Breaking pliers (to snap scored glass cleanly), Safety gear
+:
+goggles & gloves.
+60
+Gypsum(10 kg)
+Form:
+Fine white powder (calcined gypsum, CaSO₄·½H₂O),
+Setting Time:
+Initial: 5–10 minutes, Final: 20–30 minutes,
+Compressive Strength:
+~ 5–8 N/mm²
+61
+Digital Multimeter (5 units)
+Display:
+LCD, minimum 2000 to 6000 count,
+Measurement Ranges:
+DC Voltage: 0 – 600 V (accuracy ±0.5%), AC Voltage: 0 – 600 V (accuracy ±1.0%), DC Current: 0 – 10 A, AC Current: 0 – 10 A, Resistance: 0 – 40 MΩ, Capacitance: 0 – 100 μF (higher-end models up to 100 mF), Frequency: 10 Hz – 10 MHz, Continuity Test: Buzzer <50 Ω
+62
+Clothes Iron (5 units)
+Product Type:
+Dry / Steam Iron,
+Power:
+2000W,
+Temperature Control:
+Adjustable thermostat knob,
+Soleplate:
+Non-stick coated,
+Cord
+: 1.5m & Auto shut-off
+63
+Oscilloscope (4 units)
+100 MHz – 1 GHz. Should analyze both time-domain (oscilloscope) and frequency-domain (spectrum analyzer).
+64
+C-Clamp (10 pcs)
+Size:
+8 inch,
+Spindle:
+Chrome plated,
+Handle:
+Sliding T-bar,
+65
+Ratchet clamp 8 inches/200mm (10 pcs)
+Type:
+Quick-Grip,
+Throat Depth:
+Minimum 70 mm,
+Surface Protection:
+Non-marring pads
+66
+Baby Vice 60 mm (5 pcs)
+Material:
+cast iron,
+Base:
+Swivel base (preferred) for angular adjustment (0–360° rotation)
+67
+Bench vices (5 units)
+Width:
+125mm,
+Depth:
+60mm,
+Material:
+cast iron,
+Base:
+Swivel base (preferred) for angular adjustment (0–360° rotation)
+68
+Anvil
+Type:
+Engineering,
+Material:
+cast steel,
+Horn:
+One rounded horn,
+Hardy Hole:
+12–16 mm square,
+Pritchel Hole:
+8–12 mm
+Part 4
+1
+Coil Winding M/c motorized
+Drive:
+Motorized (Single Phase 230 V AC, 50 Hz),
+Wire Gauge Range:
+SWG 10 to 42,
+Max Coil Diameter:
+250 mm,
+Max Coil Length:
+200 mm,
+Max Winding Width:
+150 mm
+2
+HAM Radio transceiver, antenna and related equipment
+Frequency Range:
+HF: 1.8 – 30 MHz, VHF: 136 – 174 MHz, UHF: 400 – 470 MHz,
+Modes:
+AM, FM, SSB, CW, Digital (FT8, PSK31 with interface),
+RF Output Power:
+5 – 100 W (adjustable),
+Display:
+LCD/TFT with frequency, mode, and spectrum scope,
+Connectivity:
+USB/Serial for PC programming, Digital modes support
+3
+Relevant Softwares (Academic Licenses)
+Relevant Software (Academic Licenses) in an IDEA Lab setup, the focus should be on design, electronics, programming, simulation, and prototyping tools.
+4
+Sensor set including sensors for Home/Industry/Agriculture Automation, Medical diagnosis 10 SET
+Core Features:
+Compatible with Arduino, Raspberry Pi 4, ESP32, PLCs, Plug-and-Play modules with standard 3-pin / Grove connectors, Covers temperature, pressure, flow, gas, soil, motion, light, health monitoring, automation, Mix of analog and digital sensors for versatility, Reusable for IoT, robotics, smart systems, research projects.
+Home Automation:
+PIR Motion Sensor (HC-SR501 or Grove PIR), Temperature & Humidity Sensor (DHT22 / SHT31), Light Sensor (LDR / BH1750), Gas Sensor (MQ-2 or MQ-135 for smoke/CO₂), Ultrasonic Distance Sensor (HC-SR04) ,
+Industrial Automation:
+Proximity Sensor (Inductive & Capacitive type, 12–24V DC), Pressure Sensor (0–10 bar, industrial grade), Current Sensor (ACS712 or Hall-effect), Vibration Sensor (Piezoelectric or MPU6050 IMU), Flow Sensor (Hall-effect water/air flow meter),
+Agriculture Automation:
+Soil Moisture Sensor (capacitive type, corrosion resistant), Soil pH Sensor (analog probe), Soil Temperature Sensor (DS18B20 waterproof), Rain Sensor Module, CO₂ & Air Quality Sensor (MH-Z19 or equivalent),
+Medical / Health Monitoring:
+Heart Rate & Pulse Oximeter Sensor (MAX30102), ECG Sensor Module (AD8232), Body Temperature Sensor (MLX90614 IR or DS18B20 probe), Respiration/Pressure Sensor (MPX5010), Blood Pressure Sensor (cuff-based modules for prototyping)
+5
+Arduino UNO boards (10 sets including USB A to B cable+ male -male connecting wires+ female to female connecting wires+ male -female connecting wires)
+Board:
+Arduino UNO R3 (ATmega328P microcontroller, 16 MHz, 32 KB flash, 2 KB SRAM, 14 digital I/O pins, 6 analog inputs),
+USB Cable:
+10 × USB A to B cables (for programming and power supply, 1 m length preferred),
+Connecting Wires:
+10 × Male-to-Male jumper wire sets (40 wires per set, 20 cm length), 10 × Male-to-Female jumper wire sets (40 wires per set, 20 cm length), 10 × Female-to-Female jumper wire sets (40 wires per set, 20 cm length),
+Power Supply:
+Boards can be powered via USB or 9V DC adapter.,
+Compatibility:
+Works with Arduino IDE, supports C/C++ programming.
+6
+NodeMCU (ESP8266) boards (10 sets (10 sets including USB A to B cable+ male -male connecting wires+ female to female connecting wires+ male -female connecting wires)
+Board:
+NodeMCU v3 (ESP8266EX SoC, Tensilica 32-bit LX106 microcontroller), Clock speed: 80–160 MHz, Flash memory: 4 MB, RAM: 64 KB instruction RAM + 96 KB data RAM, WiFi: 802.11 b/g/n support (TCP/IP stack included), GPIO: 17 pins (PWM, I²C, SPI, UART supported), Operating Voltage: 3.3V (but USB powered at 5V).
+Connectivity:
+Micro USB interface for programming (CH340 or CP2102 driver chip), Supports Arduino IDE, Lua, and MicroPython,
+Accessories per set:
+1 × USB cable (Micro USB to USB-A, 1 m length preferred), 1 × Jumper Wires (Male-to-Male, 40 pcs, 20 cm), 1 × Jumper Wires (Male-to-Female, 40 pcs, 20 cm), 1 × Jumper Wires (Female-to-Female, 40 pcs, 20 cm)
+7
+Raspberry Pi 4 boards (05 sets including HDMI – mini HDMI connector, Memory card of 8 GB, adaptor, casing)
+Processor:
+Broadcom BCM2711, Quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz, RAM: 8 GB LPDDR4, GPU: Broadcom VideoCore VI, supports OpenGL ES 3.x,
+Connectivity:
+2 × micro HDMI ports (supports dual 4K displays), 2 × USB 3.0 + 2 × USB 2.0, 1 × Gigabit Ethernet, Dual-band WiFi 802.11ac + Bluetooth 5.0, Storage: MicroSD card slot (boot + storage), GPIO: 40-pin header (backward compatible with earlier Pi versions),
+Accessories per Set:
+HDMI to Micro HDMI cable (for display connection, 1 m preferred), MicroSD card – 32 GB (Class 10 or higher, preloaded with Raspberry Pi OS), Note: 8 GB is too small for most lab projects; 32 GB is the practical minimum now), Official 5V 3A USB-C Power Adapter (for stable power supply), Protective Case with Cooling Fan & Heat Sinks (transparent or black ABS preferred), GPIO Breakout Board + Ribbon Cable
+8
+BeagleBone AI for Artificial Intelligence based applications (5 sets)
+Processor:
+Texas Instruments (TI) Sitara AM5729 dual-core ARM Cortex-A15, Embedded Vision Engine (EVE) & C66x DSP cores for AI/ML acceleration,
+Memory:
+1 GB RAM (DDR3L), 16 GB onboard eMMC flash storage, MicroSD card slot for expandable storage,
+Graphics / AI Support:
+PowerVR SGX544 dual-core GPU, Deep learning libraries & TensorFlow Lite supported,
+Connectivity:
+2 × Gigabit Ethernet ports, 2 × USB 3.0 host ports, 1 × USB Type-C, WiFi 802.11 b/g/n + Bluetooth 4.1, HDMI video output,
+Expansion & I/O:
+2 × 46-pin headers (GPIO, I²C, SPI, UART, PWM, ADC), PRUs (Programmable Real-time Units) for industrial I/O handling
+9
+BeagleBone -Black-Wireless (5 sets)
+Processor:
+Texas Instruments Sitara AM335x Cortex-A8, 1 GHz,
+Memory & Storage:
+512 MB DDR3 RAM, 4 GB 8-bit eMMC onboard flash storage, MicroSD card slot for expansion,
+Connectivity:
+WiFi 802.11 b/g/n (2.4 GHz), Bluetooth 4.1 LE, 1 × 10/100 Ethernet port, USB: 1 × USB host, 1 × USB client,
+Video & Audio:
+HDMI micro connector (supports 720p output),
+No onboard audio DAC,
+GPIO & Expansion:
+2 × 46-pin headers (compatible with BeagleBone Black capes), Includes PWM, I²C, SPI, UART, ADC
+10
+Peripheral sets for Arduino/NodeMCU/Raspberry Pi (10 sets)
+Jumper Wires:
+Male-to-Male, Male-to-Female, Female-to-Female, 20–30 cm length, 40 wires each type per set, High-quality copper core, flexible silicone insulation,
+Breadboards:
+Size: 400–830 tie points, With power rails (+5V / +3.3V), Solderless for rapid prototyping,
+Storage
+: 128GB MicroSD,
+Modules:
+Relay Module (1 or 2 channel, 5V), Servo Motor SG90 (3–6V), DC Motor + Motor Driver (L298N), LED Module (red, green, blue), Buzzer Module, Push Buttons & Potentiometers,
+Display / Output Modules:
+16×2 LCD (I²C interface), OLED 128×64 0.96″, 7-segment display (optional), Mini RGB LEDs, Stepper motor, Buzzer, Audio in and out
+11
+ESP32 CAM Development Board WiFi+Bluetooth with OV2640 Camera Module (5 sets)
+Microcontroller:
+ESP32-WROOM-32 (Tensilica Xtensa dual-core 32-bit LX6), Clock speed: 160–240 MHz, RAM: 520 KB SRAM, Flash: 4 MB,
+Camera Module:
+OV2640, Resolution: 2 MP (1600×1200 max), Supports JPEG compression, Supports image capture & video streaming,
+Connectivity:
+WiFi: 802.11 b/g/n, Bluetooth: v4.2 BR/EDR & BLE, Supports Arduino IDE, MicroPython, PlatformIO,
+GPIO & Expansion
+: 9 GPIO pins usable (some used internally for camera & flash), Supports UART, I²C, SPI, PWM,
+Power Supply:
+5V via micro USB or external 5V supply,
+Typical current:
+160–240 mA in active mode,
+Accessories per Set:
+Micro USB cable (for programming), Jumper wires: Male-Male, Male-Female, Female-Female (20–30 cm), Breadboard ( small size), Antenna (PCB or external for WiFi), microSD card slot support for image/video storage
+12
+Solnoi Electronics Raspberry Pi 3 Camera Module Night Vision Camera (5 sets)
+Camera Sensor
+: Type: CMOS, OV5647 or equivalent, Resolution: 5 MP (2592 × 1944 still images), Supports 1080p30, 720p60, and VGA90 video modes,
+Night Vision Feature:
+Built-in infrared (IR) LEDs for night vision, Supports low-light or complete darkness operation, IR-cut filter for day/night mode switching,
+Interface:
+Compatible with Raspberry Pi 3 / 4 / Zero, Connection: CSI (Camera Serial Interface) ribbon cable, Supports Raspbian OS with picamera Python library,
+Accessories per Set:
+CSI ribbon cable (10–15 cm), Mounting bracket / acrylic case, Infrared LED module included, Lens cap / wide-angle lens adapter
+Delivery Location:
+Materials must be delivered to:
+The Principal, Saveetha Engineering College, Thandalam, Sriperumbudur (TK), Kanchipuram (DT) – 602105
+📧 Email:
+principal@saveetha.ac.in
+Eligibility Criteria:
+The bidder must be an authorized supplier or service provider for the quoted products.
+Experience in supplying similar items is essential (proof of past supply must be submitted).
+Bid Details:
+The contract period is
+90 days
+from the date of order.
+The quoted prices should be
+fixed
+and
+inclusive of all taxes, duties, and transport charges
+.
+Only
+one quotation per firm
+will be accepted. Any multiple quotations for the same items will be disqualified.
+Item-wise pricing must be provided in the
+prescribed financial format
+.
+Quotation Submission Guidelines:
+Bids should be submitted via
+email (with digital signature)
+or in a
+sealed envelope
+.
+Both technical specifications and pricing must be included.
+Required documents:
+GST Registration Certificate
+PAN/TAN Copy
+Item-wise specifications
+Deadline
+: Submit quotations before
+3:00 PM on 11.08.2025
+Opening of Bids
+: 18.08.2025 at 4:00 PM at the Principal’s office.
+Quotation Validity:
+All quotations must remain valid for
+90 days
+from the last date of submission.
+Evaluation of Quotations:
+Quotations will be evaluated by the
+SEC Purchase Committee
+based on:
+Compliance with specifications and terms.
+Valid documentation.
+Responsiveness and lowest evaluated price.
+Award of Contract:
+The Purchase Committee reserves the right to accept/reject any or all quotations without assigning any reason.
+Selected bidders will be notified formally with a
+supply order
+, and the terms will be binding.
+Additional Terms:
+Payment will be released
+post successful delivery, inspection, and training (if applicable)
+.
+Supplier must ensure product warranty and quality assurance.
+Any damage or mismatch during delivery will not be entertained for payment.
+Bidders must
+clearly mention applicable taxes (GST)
+.
+We invite all eligible firms to participate and thank you for your interest in contributing to the development of the IDEA Lab.
+PRINCIPAL
+PROFORMA FOR TECHNICAL BID (PART – I)
+S.N.
+Particulars
+To be filled in by the tenderer
+1
+Name of the Agency
+2
+Date of establishment of the agency
+3
+Detailed office address of the Agency with Office Telephone Number, Fax Number and Mobile Number and name of the contact person.
+4
+Whether the firm is registered under Company Act, partnership or proprietorship. (Copies of all certificates of registration to be enclosed.)
+5
+PAN/TAN Number( copy to be enclosed)
+6
+GST Registration Number (copy
+to be enclosed)
+7
+Details of material/equipment supplied to  government offices/ Institutes/Industries if any
+Place:
+Date:
+Signature of the Bidder
+Office Seal
+FORMAT OF FINANCIAL BID
+(Part – II)
+Name of the Firm: _________________________
+Quotation for purchase
+Sl.
+No.
+Name of Item
+Features &
+Specifications
+Brand
+Qty.
+Rate Per Unit
+(including GST)
+Amount
+(in Rs. )
+01.
+02
+03
+Total
+Total Amount in Rupees
+…………………………………………………………………………………………………………………………………………………………………………………….. only)
+We agree to supply the above-mentioned items in accordance with technical specification for a total contract price of `. ………………….. (in words Rupees) including taxes, Transportation etc. within Ten days of the issue of supply order.
+We also confirm that the normal commercial warrantee/guarantee shall apply to the supplied items.
+We also agree and abide with the terms and conditions stipulated in the bid document.
+(Signature of Bidder with Seal)
+Name:
+Designation: Address:
+Contact No.:
+Date

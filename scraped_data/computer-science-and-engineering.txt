@@ -1,0 +1,119 @@
+URL: https://saveetha.ac.in/computer-science-and-engineering/
+================================================================================
+
+Computer Science and Engineering - Saveetha Engineering College
+Computer Science and Engineering
+Home
+Computer Science and Engineering
+About the
+Department
+Established in 2001, the Department of Computer Science and Engineering (CSE) at Saveetha Engineering College has evolved into a dynamic center of academic excellence and innovation. Starting with a modest intake of 60 students, the department has grown steadily to accommodate 360 students per year—reflecting the increasing demand and trust placed in our program.
+The department offers both B.E. in Computer Science and Engineering and M.E. in Computer Science and Engineering, equipping students with industry-relevant knowledge and futuristic skills. Our academic strength lies in our dedicated team of 59 experienced faculty members, all of whom hold postgraduate degrees. Notably, 26 faculty members are Doctorates, and several others are pursuing their Ph.D., contributing to a culture of research-led teaching and continuous learning.
+We take pride in delivering consistently outstanding academic results and nurturing a generation of tech leaders ready to take on global challenges at various MNCs and GCCs. Our state-of-the-art infrastructure enhances the learning experience:
+All classrooms are air-conditioned and smart board enabled, creating an interactive and engaging academic environment.
+The department hosts 6 advanced laboratories and 4 Centers of Excellence with 1060 high-performance computing systems and laptops, all connected to high-speed internet and maintained to international standards.
+GHAME - Modular based Gamified Learning Management system further enrich regular practical learning, ensuring students are well versed with the latest tools and technologies ensuring Mastery based Learning Experience.
+At the heart of the department is a commitment to excellence, innovation, and holistic development—preparing our students to lead in the digital age with competence, confidence, and compassion.
+Faculty
+Advisory Board
+Research
+Facilities
+Events
+Curriculum & Syllabus
+Innovative Teaching Methods
+Placement Opportunities
+Hackathon Triumphs
+Industrial Visit
+Placement Details
+Learners Gateway
+Key
+Features
+Innovative Curriculum: Designed to address the dynamic advancements in computing, focusing on AI, IoT, Cloud Computing, and Cybersecurity.
+Global Industry Exposure: Collaborations with tech giants and industry leaders for training, projects, and mentorship.
+Specialized Centres of Excellence: Dedicated labs for advanced computing, AI, blockchain, and big data analytics.
+Futuristic Career Opportunities: Prepares students for evolving roles like cloud architects, AI engineers, and blockchain developers.
+Skill-Based Learning: Practical emphasis on coding, algorithm design, and problem-solving through competitive programming.
+Customized Electives: Diverse elective options allow students to specialize in emerging technologies and niche domains.
+AI-Driven Learning: Integration of artificial intelligence in core coursework and projects for real-world readiness.
+Global Certifications Support: Opportunities to achieve certifications in trending technologies, boosting employability.
+Hackathons and Coding Events: Regular participation in intercollegiate and national-level competitions to hone skills.
+Innovation Incubators: Support for entrepreneurial aspirations with dedicated innovation cells and seed funding.
+Placement Ecosystem: Industry-oriented training programs for seamless transition into global IT careers.
+Tech Community Engagement: Encourages participation in developer forums, communities, and tech summits.
+Interdisciplinary Integration: Opportunities to apply computer science in domains like healthcare, finance, and entertainment.
+Ethical Computing Practices: Focus on developing responsible solutions with a positive societal impact.
+Leadership and Teamwork: Emphasis on project-based learning to develop managerial and collaborative skills.
+Placement
+Data
+Centre of
+Excellence
+Eminent
+Alumni
+News and
+Events
+AI&DS News & Events
+AI&ML EVENT
+🛡️ Shaping Cyber Experts at SEC with Securin
+💼 SEC (Autonomous) proudly conducted the “Securin Placement Drive” for the SCOFT 2026 Batch! This drive featured Assessment Tests and
+04/06/2025
+Attend
+AI&DS News & Events
+AI&ML EVENT
+Securin Powers Tech Dreams at SEC!
+🎉 Saveetha Engineering College (Autonomous) is happy to welcome “Securin” for the SCOFT 2026 Batch Campus Hiring Drive! 💼 💫 Securin is
+04/06/2025
+Attend
+AI&DS News & Events
+AI&ML EVENT
+🌟 Gear up for a bright future! Saveetha Engineering College (Autonomous) proudly welcomes “Kyndryl”
+For the SCOFT & ECE ’25 Batch Campus Hiring Drive! 🚀 Kyndryl is a leader in providing digital excellence by
+26/03/2025
+Attend
+CSE EVENT
+SEC Events
+💫 CSE Learner Shines with “AWS” Achievement!
+🎉 Big Cheers to Aaron H. from CSE 2nd Year for securing the prestigious “AWS Certified Cloud Practitioner” certification! ✨
+22/01/2025
+Attend
+CSE EVENT
+SEC Events
+✨ Zoho Placements Secured – CSE ’25 Batch Shines!
+🎉 Kudos to the CSE ’25 batch learners for landing coveted placements at “Zoho Corp”! 🚀 Here’s to your bright
+09/01/2025
+Attend
+CSE EVENT
+SEC Events
+HANDS – ON TRAINING IN EXPLORING QUANTUM SOLUTIONS IN HEALTHCARE: A HANDS – ON JOURNEY WITH QISKIT
+28/03/2024
+Attend
+View all
+VISION
+To uniquely position the department and to establish synergistic relationship across the entire spectrum of disciplines involved with computing by our faculty contributing to Computer Science and devoting themselves to take the maximal advantage of modern Computer Science to solve a wide range of complex, scientific, technological and social problems.
+MISSION
+To pursue our vision by striving for excellence in creating, applying, and imparting knowledge in Computer Science and Engineering.
+To pursue comprehensive educational system, research in collaboration with industry and government and to disseminate knowledge through scholarly publications.
+To provide service through professional societies to the community, the state, and the nation.
+PROGRAMME EDUCATIONAL OBJECTIVES (PEOs)
+Graduates will be able to demonstrate peer- recognized expertise together with the ability to articulate that expertise and use it for contemporary problem solving in the analysis, design, and evolution of computer and software systems, including system integration and implementation.
+Graduates will be able to demonstrate engagement in the engineering profession, locally and globally, by contributing to the ethical, competent, and creative practice of engineering or other professional careers.
+Graduates will be able to demonstrate sustained learning and adapting to a constantly changing field through professional development and self-study.
+Graduates will be able to demonstrate leadership and initiative to ethically attain professional and organizational goals, facilitate the achievements of others, and obtain integrated results.
+Graduates will be able to demonstrate a commitment to teamwork while working with others of diverse cultural and interdisciplinary backgrounds.
+PROGRAMME OUTCOMES (POs)
+Program outcomes are narrower statements that describe what students are expected to know and be able to do by the time of graduation. Engineering Graduates will be able to:
+a. Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+b. Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+c. Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+d. Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+e. Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+f. The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+g. Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+h. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+i. Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+j. Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+k. Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+l. Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAMME SPECIFIC OUTCOMES (PSOs)
+PSO1: Design and Compute computer programs using appropriate algorithm, programming language and principles of mathematics.
+PSO2: Apply standard engineering and management practices in computer based systems to provide solutions to complex engineering problems.
+PSO3: Create innovative solutions for web and mobile based applications using recent technologies.

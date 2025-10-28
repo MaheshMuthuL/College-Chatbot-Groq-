@@ -1,0 +1,49 @@
+URL: https://saveetha.ac.in/computing-internet-facility/
+================================================================================
+
+Computing & Internet Facility - Saveetha Engineering College
+Computing & Internet Facility
+Home
+Computing & Internet Facility
+Welcome to SEC campus where cutting-edge technology and seamless internet connectivity converge to create an unparalleled learning environment. Here are the top highlights of our state-of-the-art computing and internet facilities:
+Dive into the future of AI Era:
+NVIDIA DGX H100:
+It is powered by eight NVIDIA H100 Tensor Core GPUs which are the world’s most powerful GPUs for AI. NVIDIA DGX H100 can deliver up to 32 petaFLOPS of AI performance. Its architecture is supercharged for the largest workloads such as generative AI, natural language processing, and deep learning recommendation models.
+NVIDIA A100 TENSOR CORE GPU:
+NVIDIA A100 Tensor Core GPU delivers up to 5 petaFLOPS of AI performance and is suitable for elastic data centers for AI, data analytics, and HPC.
+NVIDIA L40 GPU:
+The NVIDIA L40 is a high-performance, energy-efficient GPU powered by the Ada Lovelace architecture, that delivers revolutionary neural graphics, virtualization, computing, and AI capabilities for GPU-accelerated data center workloads. The L40 GPU delivers real-time ray-tracing performance including real-time, full-fidelity, interactive rendering, 3D design, video streaming, and virtual production to accelerate visual computing workloads and deliver groundbreaking performance for deep learning and inference applications.
+META LLAMA 3 LLM:
+The 70 Billion Chat Model and 34 Billion Code Model support research initiatives by analyzing large datasets for simulating complex problems, and fostering innovation and collaboration in academic and industrial projects.
+This amalgamation of Meta Llama2 LLM and NVIDIA DGX H100 offers students the opportunity to tackle real-world problems. From complex coding challenges to dynamic chatbot interactions, learners can apply these models to address the intricacies of fast-evolving technologies.
+NVIDIA Jetson Nano:
+Powered by “NVIDIA Jetson Nano” is a compact, powerful, and efficient AI computing platform designed for embedded systems and smart devices for edge computing tasks. SEC is ready to use this device in robotics, and IoT devices to build and deploy AI-powered applications.
+NVIDIA Orin Nano Developer Kit:
+It offers enhanced performance with a more powerful CPU and GPU than its predecessor, the “Jetson Nano”. Both platforms share a similar ecosystem making it easy for developers to transition and scale their projects from the Jetson Nano to the more powerful “Orin Nano”. This compatibility ensures that projects started on the “Jetson Nano” can be seamlessly upgraded to take advantage of the enhanced capabilities of the “Orin Nano” without significant redevelopment efforts.
+SEC – Saveetha Engineering College (Autonomous) proudly uses
+Poodll
+which offers a comprehensive toolkit designed specifically for language teachers, enabling them to create engaging and dynamic courses that blend seamlessly with the
+Moodle LMS
+. With Poodll, educators have access to a wide array of plugins, including audio and video recording, vocabulary learning, and assessing speaking and reading skills. With Poodll, educators can enhance their teaching methods and provide learners with a rich and immersive learning experience.
+SEC is One of INDIA’s FIRST COLLEGE
+to implement AICTE’s ONE LEARNER, ONE LAPTOP” scheme with an AI-Enabled HIGH-END LAPTOP with 4 yr warranty, 10hrs battery backup, ibs screen, military-grade keyboard etc.
+Wi-Fi Enabled Campus
+: Our campus is fully equipped with Wi-Fi connectivity, ensuring seamless internet access for all students, staff, and visitors, fostering an environment of constant connectivity and innovation.
+With more than 3000 laptops and 1200 desktops available
+across the campus connected via IPv6, we provide ample computing resources for academic research, coursework, and other essential activities, ensuring that every student and staff member has access to the tools they need.
+Departmental Printers:
+We have strategically placed 70 printers in various departments, making printing convenient and accessible for both students and staff, supporting a range of academic and administrative tasks.
+Microsoft Campus Agreement:
+Our campus utilizes the Microsoft Campus Agreement Volume License, offering a comprehensive suite of software tools to enhance productivity, collaboration, and learning across all disciplines.
+High-End Rack Server System:
+Our high-end rack server system supports a wide range of applications, including web hosting, video streaming, and academic activities, ensuring robust and reliable performance for all campus needs.
+Advanced Networking Technology
+: All our computers are networked using 1 Gbps Ethernet LAN technology, utilizing both manageable and unmanageable switches, to provide fast and efficient data transfer and connectivity.
+Campus-Wide Network
+: The entire campus, including hostels and amenities blocks, is interconnected with a network laid over 3 km using advanced Wi-Fi technology, ensuring consistent and high-speed internet access throughout.
+High-Bandwidth Internet
+: With a 1 Gbps bandwidth of internet connectivity, we offer unparalleled speed and reliability, supporting a wide range of online activities, from academic research to video conferencing and more.
+24/7 Lab Facility
+: Our lab facilities are available 24/7 for students, providing them with round-the-clock access to computers, software, and internet resources, enabling them to work on projects and assignments at their convenience.
+Parent Communication Portal
+: We provide separate login IDs for parents, allowing them to view their ward’s marks, and attendance, and communicate with college faculty through the college website, fostering transparency and engagement in the educational process.

@@ -1,0 +1,90 @@
+URL: https://saveetha.ac.in/artificial-intelligence-data-science/
+================================================================================
+
+Artificial Intelligence & Data Science - Saveetha Engineering College
+Artificial Intelligence & Data Science
+Home
+Artificial Intelligence & Data Science
+About the
+Department
+The Department of Artificial Intelligence & Data Science (AI&DS), a beacon of innovation and excellence since its inception in 2020. Accredited by the All India Council for Technical Education (AICTE), AI&DS four-year undergraduate program is meticulously designed to catapult you into the forefront of AI and Data Science.
+At SEC, the department of AI&DS is powered by SUPER COMPUTERS equipped with the WORLD’S MOST POWERFUL Nvidia H100 DGX Tensor Core Processors: Computer Vision, NLP: Natural Language Processing.
+It is a powerhouse of knowledge, equipped with state-of-the-art facilities and a curriculum that blends theory with practical, hands-on experience. Our faculty are not just educators; they are mentors and industry veterans committed to nurturing the next generation of AI & Data Science leaders. With air-conditioned, smart classrooms and laboratories outfitted with high-end systems and smartboards, we offer an unparalleled learning environment. Our labs are not just spaces; they are innovation hubs where you can experiment, learn, and grow.
+Faculty
+Advisory Board
+Research
+Facilities
+Events
+Curriculum & Syllabus
+Placement Opportunities
+Hackathon Triumphs
+Placement Details
+Learners Gateway
+Key
+Features
+Accredited Program: Our four-year undergraduate program is recognized by the All India Council for Technical Education (AICTE).
+Expert Faculty: Our team of faculty comprises experienced professionals and academicians with deep industry and research experience.
+State-of-the-Art Infrastructure: Two fully equipped labs Powered by SUPER COMPUTERS equipped with the
+WORLDS MOST POWERFUL Nvidia DGX H100
+Tensor Core Processors: Computer Vision, NLP: Natural Language Processing systems.
+Hands-On Learning: Emphasis on practical, hands-on experience alongside theoretical knowledge.
+Activity-Based Learning (ABL): The curriculum is designed to encourage active, experiential learning.
+Cutting-Edge Curriculum: Our curriculum is constantly updated to include the latest trends and technologies in AI and Data Science.
+Research Opportunities: Students are encouraged to engage in research projects under the guidance of our faculty.
+Industry Collaboration: Strong ties with the industry to provide internships, workshops, and guest lectures.
+Placement
+Data
+Centre of
+Excellence
+News and
+Events
+AI&DS News & Events
+AI&ML EVENT
+🛡️ Shaping Cyber Experts at SEC with Securin
+💼 SEC (Autonomous) proudly conducted the “Securin Placement Drive” for the SCOFT 2026 Batch! This
+04/06/2025
+Attend
+AI&DS News & Events
+SEC Events
+💻 Modernizing Mainframes, Empowering Minds @ SEC! 🚀
+🎉 An exclusive “Modernize Mainframes with VS Code” workshop by the “Z Tech Enterprise Hub
+06/06/2025
+Attend
+AI&DS News & Events
+AI&ML EVENT
+Securin Powers Tech Dreams at SEC!
+🎉 Saveetha Engineering College (Autonomous) is happy to welcome “Securin” for the SCOFT 2026 Batch Campus Hiring
+04/06/2025
+Attend
+View all
+VISION
+To uniquely position the department and to establish synergistic relationships across the entire spectrum of disciplines involved with computing by our faculty contributing to Computer Science and devoting themselves to take the maximal advantage of modern Computer Science to solve a wide range of complex, scientific, technological, and social problems.
+MISSION
+To pursue our vision by striving for excellence in creating, applying, and imparting knowledge in Computer Science and Engineering.
+To pursue a comprehensive educational system, research in collaboration with industry and Government and to disseminate knowledge through scholarly publications.
+To provide service through professional societies to the community, the state, and the nation.
+PROGRAMME EDUCATIONAL OBJECTIVES (PEOs)
+Graduates, within four years of graduation, should demonstrate peer-recognized expertise together with the ability to articulate that expertise and use it for contemporary problem-solving in the analysis, design, implementation, and evaluation of artificial intelligence/data science systems.
+Graduates, within four years of graduation, should demonstrate engagement in the engineering profession, locally and globally, by contributing to the ethical, competent, and creative practice of engineering or other professional careers.
+Graduates, within four years of graduation, should demonstrate sustained learning and adapt to a constantly changing field through graduate work, professional development, and self-study.
+Graduates, within four years of graduation, should demonstrate leadership and initiative to ethically advance professional and organizational goals, facilitate the achievements of others, and obtain substantive results.
+Graduates, within four years of graduation, should demonstrate a commitment to teamwork while working with others of diverse cultural and interdisciplinary backgrounds.
+PROGRAMME OUTCOMES (POs)
+Engineering Graduates will be able to:
+Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem Analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using the first principles of mathematics, natural sciences, and engineering sciences.
+Design/Development Of Solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and the cultural, societal, and environmental considerations.
+Conduct Investigations of Complex Problems: Use research-based knowledge and research methods including design of experiments, analysis, and interpretation of data, and synthesis of the information to provide valid conclusions.
+Modern Tool Usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The Engineer and Society: Apply to reason informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and Sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and Team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project Management and Finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-Long Learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAMME SPECIFIC OUTCOMES (PSOs)
+Professional Skills: Design and analyze optimal artificial intelligence solutions to real-world problems in data analysis/ augmented reality/ virtual reality/ robotics.
+Technical Skills: Use modern AI/Data Science open-source software tools and hardware for product development.
+Entrepreneurship Skills: Ability to lead a product development company/team.
+Research Skills: Ability to use the acquired knowledge to identify real-world research problems.
